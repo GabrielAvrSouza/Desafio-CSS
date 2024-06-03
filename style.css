@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    margin-top: 40px;
+}
+
+.links {
+    width: 87px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 42px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.Sing-up {
+    width: 124px;
+    height: 51px;
+    border-radius: 10px;
+    border: none;
+    background-color: #6FBF44;
+    margin-left: 28px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: white;
+    cursor: pointer;
+
+}
+
+img {
+    width: 595px;
+    height: 500px;
+    margin-top: 246px;
+    margin-left: 121px;
+    display: inline-block;
+}
+
+
+.caixa-main {
+    display: inline-block;
+    margin-left: 170px;
+    margin-top: 342px;
+    position: fixed;
+
+}
+
+h1 {
+    width: 582px;
+    height: 164px;
+    font-weight: 600;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+}
+
+p {
+    width: 493px;
+    height: 99px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #4B505A;
+}
+
+.learn-button {
+    width: 115px;
+    height: 37px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 27px;
+    margin-top: 30px;
+    background-color: #6FBF44 !important;
+    background-color: #161A49;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+@media screen and (max-width: 1300px) {
+
+    .links {
+        display: none;
+    }
+
+    .caixa-main {
+        display: block;
+        position: static;
+        width: 100%;
+        margin: auto;
+    }
+
+    img {
+        width: 312px;
+        height: 288px;
+        display: block;
+        margin-top: 150px;
+        margin: auto;
+    }
+
+    h1 {
+        width: 278px;
+        height: 60px;
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+        line-height: 30px;
+        margin: auto;
+        margin-top: 25px;
+    }
+
+    p {
+        width: 304px;
+        height: 165px;
+        font-size: 18px;
+        line-height: 33px;
+        text-align: center;
+        margin: auto;   
+    }
+
+    .learn-button {
+        width: 112px;
+        height: 27px;
+        font-size: 18px;
+        margin-left: 35%;
+        
+    }
+
+    .Sing-up {
+        width: 91px;
+        height: 31px;
+        font-size: 12px;
+        margin-left: 70%;
+    }
+
+
+    
+}
+    
+
