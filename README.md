@@ -6,10 +6,8 @@
 
 ## 📋 Recursos do Site
 
-- Catálogo de produtos com detalhes e preços
-- Carrinho de compras para facilitar a compra
+- Design Limpo e ágil
 - Layout responsivo que se adapta a dispositivos móveis e desktops
-- Seção de contato para dúvidas e suporte
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -19,7 +17,7 @@
 
 ## 🎯 Propósito do Projeto
 
-Este projeto foi criado para oferecer uma solução prática de e-commerce, tornando a compra de produtos online mais acessível e amigável para todos os usuários.
+Este projeto foi criado para aprimorar minhas habilidades responsivas.
 
 ## 🖥️ Como Acessar o Site
 
